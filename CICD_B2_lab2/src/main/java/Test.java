@@ -1,5 +1,5 @@
 public class Test {
-	private int n=10;
+	//private int n=10;
 	public void f1(int n1)
 	{
 		n1=10;
